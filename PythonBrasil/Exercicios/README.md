@@ -25,21 +25,17 @@
 
 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
  11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
- a. o produto do dobro do primeiro com metade do segundo .
-
-b. a soma do triplo do primeiro com o terceiro.
-
-c. o terceiro elevado ao cubo.
+    - A. o produto do dobro do primeiro com metade do segundo .
+    - B. a soma do triplo do primeiro com o terceiro.
+    - C. o terceiro elevado ao cubo.
 
 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a
  seguinte fórmula: (72.7\*altura) - 58
 
 13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as
  seguintes fórmulas:
-
-a. Para homens: (72.7\*h) - 58
-
-b. Para mulheres: (62.1\*h) - 44.7
+ - A. Para homens: (72.7\*h) - 58
+ - B. Para mulheres: (62.1\*h) - 44.7
 
 14. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu
  trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de
@@ -49,23 +45,15 @@ b. Para mulheres: (62.1\*h) - 44.7
  adequadas.
 
 15. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o
-
 total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e
-
 5% para o sindicato, faça um programa que nos dê:
- a. salário bruto.
+ - A. salário bruto.
+ - B. quanto pagou ao INSS.
+ - C. quanto pagou ao sindicato. d. o salário líquido.
+ - E. calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
-b. quanto pagou ao INSS.
-
-c. quanto pagou ao sindicato. d. o salário líquido.
-
-e. calcule os descontos e o salário líquido, conforme a tabela abaixo:
-
-\+ Salário Bruto : R$
-- IR (11%) : R$
-
+\+ Salário Bruto : R$ IR (11%) : R$
 \- INSS (8%) : R$
-
 \- Sindicato ( 5%) : R$
 = Salário Liquido : R$
 
@@ -87,22 +75,3 @@ arredonde os valores para cima, isto é, considere latas cheias.
 
 18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em
  Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
-
-https://wiki.python.org.br/EstruturaSequencial 1/2
-
-
-
-<a name="br2"></a>18/04/2023, 22:34 EstruturaSequencial - PythonBrasil
-
-Voltar para a [ListaDeExercicios](https://wiki.python.org.br/ListaDeExercicios)
-
-**Sobre esta página**
-
-EstruturaSequencial (editada pela última vez em 2022-04-02 02:17:55 por [ogordo](https://wiki.python.org.br/ogordo))
-
-[Visualizar](https://wiki.python.org.br/EstruturaSequencial?action=raw)[ ](https://wiki.python.org.br/EstruturaSequencial?action=raw)[Texto](https://wiki.python.org.br/EstruturaSequencial?action=raw)[ ](https://wiki.python.org.br/EstruturaSequencial?action=raw)| [Visualizar](https://wiki.python.org.br/EstruturaSequencial?action=print)[ ](https://wiki.python.org.br/EstruturaSequencial?action=print)[Impressão](https://wiki.python.org.br/EstruturaSequencial?action=print)[ ](https://wiki.python.org.br/EstruturaSequencial?action=print)| [Information](https://wiki.python.org.br/EstruturaSequencial?action=info)[ ](https://wiki.python.org.br/EstruturaSequencial?action=info)| [Fazer](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)[ ](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)[Usuário](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)[ ](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)[Acompanhar](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)[ ](https://wiki.python.org.br/EstruturaSequencial?action=SubscribeUser)| [Anexos](https://wiki.python.org.br/EstruturaSequencial?action=AttachFile)
-
-"Python" e os logos de Python são marcas registradas da [Python](http://www.python.org/psf)[ ](http://www.python.org/psf)[Software](http://www.python.org/psf)[ ](http://www.python.org/psf)[Foundation](http://www.python.org/psf), usadas aqui mediante permissão da mesma. O conteúdo
-deste site está disponível sob os termos da [Creative](http://creativecommons.org/licenses/by/2.5/br/)[ ](http://creativecommons.org/licenses/by/2.5/br/)[Commons](http://creativecommons.org/licenses/by/2.5/br/)[ ](http://creativecommons.org/licenses/by/2.5/br/)[Attribution](http://creativecommons.org/licenses/by/2.5/br/)[ ](http://creativecommons.org/licenses/by/2.5/br/)[2.5](http://creativecommons.org/licenses/by/2.5/br/)[ ](http://creativecommons.org/licenses/by/2.5/br/)exceto quando explicitamente especificado outra licença.
-
-https://wiki.python.org.br/EstruturaSequencial 2/2
