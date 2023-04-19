@@ -21,10 +21,11 @@
  total do seu salário no referido mês.
 
 9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
- C = 5 \* ((F-32) / 9).
+ - C = 5 \* ((F-32) / 9).
 
 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
- 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+
+11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
     - A. o produto do dobro do primeiro com metade do segundo .
     - B. a soma do triplo do primeiro com o terceiro.
     - C. o terceiro elevado ao cubo.
@@ -51,13 +52,11 @@ total do seu salário no referido mês, sabendo-se que são descontados 11% para
  - B. quanto pagou ao INSS.
  - C. quanto pagou ao sindicato. d. o salário líquido.
  - E. calcule os descontos e o salário líquido, conforme a tabela abaixo:
-
-\+ Salário Bruto : R$ IR (11%) : R$
-\- INSS (8%) : R$
-\- Sindicato ( 5%) : R$
-= Salário Liquido : R$
-
-Obs.: Salário Bruto - Descontos = Salário Líquido.
+   - + Salário Bruto : R$ IR (11%) : R$
+   - - INSS (8%) : R$
+   - - Sindicato ( 5%) : R$
+   - = Salário Liquido : R$
+   - ***Obs.: Salário Bruto - Descontos = Salário Líquido.***
 
 16. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser
  pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de
@@ -67,11 +66,12 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
  pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de
  18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
 
-Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
-comprar apenas latas de 18 litros; comprar apenas galões de 3,6 litros;
+ - . Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
 
-misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre
-arredonde os valores para cima, isto é, considere latas cheias.
+    - A. Comprar apenas latas de 18 litros;
+    - B. Comprar apenas galões de 3,6 litros;
+    - C. Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre
+    - E. arredonde os valores para cima, isto é, considere latas cheias.
 
 18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em
  Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
