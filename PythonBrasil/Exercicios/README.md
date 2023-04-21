@@ -85,7 +85,7 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 ### EXMPLOS: ###
 
-#### ❌ SEM int(): #### 
+#### ❌ SEM int() ❌ #### 
 ~~~PYTHON
 Num1 = ("Digite o primeiro numero: ")
 Num2 = ("Digite o secundo numero: ")
@@ -101,7 +101,7 @@ print("Sua soma deu: " + Resultado)
  Resultado = 1010
  ~~~
 
-#### ✔️ COM int(): #### 
+#### ✅ COM int() ✅ #### 
 ~~~PYTHON
 Num1 = int(("Digite o primeiro numero: "))
 Num2 = int(("Digite o secundo numero: "))
