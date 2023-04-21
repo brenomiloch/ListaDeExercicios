@@ -95,10 +95,9 @@ print("Sua soma deu: " + Resultado)
 
 ~~~PYTHON
 #Entrada de dados
- Num1 = 10
- Num2 = 10
-
- Resultado = 1010
+Num1 = 10
+Num2 = 10
+Resultado = 1010
  ~~~
 
 #### ✅ COM int() ✅ #### 
@@ -108,12 +107,10 @@ Num2 = int(("Digite o secundo numero: "))
 Resultado = Num1 + Num2
 print("Sua soma deu: " + Resultado)
 ~~~
-***Entrada de dados***
 
 ~~~PYTHON
 #Entrada de dados
- Num1 = 10
- Num2 = 10
-
- Resultado = 20
+Num1 = 10
+Num2 = 10
+Resultado = 20
  ~~~
