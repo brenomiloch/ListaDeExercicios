@@ -83,9 +83,9 @@ total do seu salário no referido mês, sabendo-se que são descontados 11% para
 **SOLUÇÃO:** 
 Para resolver o problema, é necessário converter as strings em números usando as funções int() ou float(). Essas funções permitem que as strings sejam convertidas em números inteiros ou de ponto flutuante (float), respectivamente. Com a conversão, o programa pode realizar a operação de soma aritmética esperada.
 
-## EXMPLOS: ##
+### EXMPLOS: ###
 
-**SEM int():** 
+#### SEM int(): #### 
 ~~~PYTHON
 Num1 = ("Digite o primeiro numero: ")
 Num2 = ("Digite o secundo numero: ")
