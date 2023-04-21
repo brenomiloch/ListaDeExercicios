@@ -92,8 +92,7 @@ Resultado = Num1 + Num2
 print("Sua soma deu: " + Resultado)
 ~~~
 **Resultado:**
-ˋˋˋ
-Entrada de dados
+***Entrada de dados***
  Num1 = 10
  Num2 = 10
  SOMA = 1010
