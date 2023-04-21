@@ -75,45 +75,35 @@ total do seu salário no referido mês, sabendo-se que são descontados 11% para
 
 18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em
  Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
-
-
-
-
+---------
 # ANOTAÇÕES
-A área de anotações das questões serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados a questão da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação. 
+A área de anotação serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados as questões da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação.
 
 ## QUESTÃO 03
 **PROBLEMA:** Quando somamos 10+10, o resultado esperado é 20. No entanto, no código apresentado, o resultado gerado é 1010. Isso ocorre porque as variáveis "Num1" e "Num2" são tratadas como strings em vez de números inteiros(int) ou de ponto flutuante (float). Em vez de realizar a operação esperada de soma ele está concatenando as strings.
 **SOLUÇÃO:** 
 Para resolver o problema, é necessário converter as strings em números usando as funções int() ou float(). Essas funções permitem que as strings sejam convertidas em números inteiros ou de ponto flutuante (float), respectivamente. Com a conversão, o programa pode realizar a operação de soma aritmética esperada.
-
-
-
 ### EXEMPLOS: ###
-
 #### ❌ SEM int() ❌ #### 
 ~~~PYTHON
-Num1 = ("Digite o primeiro número: ")
-Num2 = ("Digite o secundo número ")
+Num1 = ("Digite o primeiro numero: ")
+Num2 = ("Digite o secundo numero: ")
 Resultado = Num1 + Num2
-print("Sua soma foi de: " + Resultado)
+print("Sua soma deu: " + Resultado)
 ~~~
-
 ~~~PYTHON
 #Entrada de dados
 Num1 = 10
 Num2 = 10
 Resultado = 1010
  ~~~
-
 #### ✅ COM int() ✅ #### 
 ~~~PYTHON
-Num1 = int(("Digite o primeiro número: "))
-Num2 = int(("Digite o secundo número: "))
+Num1 = int(("Digite o primeiro numero: "))
+Num2 = int(("Digite o secundo numero: "))
 Resultado = Num1 + Num2
-print("Sua soma foi de: " + Resultado)
+print("Sua soma deu: " + Resultado)
 ~~~
-
 ~~~PYTHON
 #Entrada de dados
 Num1 = 10
