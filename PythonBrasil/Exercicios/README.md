@@ -96,6 +96,7 @@ print("Sua soma deu: " + Resultado)
 ***Entrada de dados***
 
 ~~~PYTHON
+#Entrada de dados
  Num1 = 10
  Num2 = 10
  ~~~
