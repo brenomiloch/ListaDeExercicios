@@ -79,10 +79,10 @@ total do seu salário no referido mês, sabendo-se que são descontados 11% para
 # ANOTAÇÕES
 A área de anotação serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados as questões da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação.
 
-## REGRAS
+### REGRAS
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-## QUESTÃO 03
+### QUESTÃO 03
 **PROBLEMA:** Quando somamos 10+10, o resultado esperado é 20. No entanto, no código apresentado, o resultado gerado é 1010. Isso ocorre porque as variáveis "Num1" e "Num2" são tratadas como strings em vez de números inteiros(int) ou de ponto flutuante (float). Em vez de realizar a operação esperada de soma ele está concatenando as strings.
 **SOLUÇÃO:** 
 Para resolver o problema, é necessário converter as strings em números usando as funções int() ou float(). Essas funções permitem que as strings sejam convertidas em números inteiros ou de ponto flutuante (float), respectivamente. Com a conversão, o programa pode realizar a operação de soma aritmética esperada.
