@@ -104,6 +104,6 @@ Num2 = int(("Digite o secundo numero: "))
 Resultado = Num1 + Num2
 print("Sua soma deu: " + Resultado)
 ~~~
-Resultado:..
+Resultado:...
 Entrada de dados: Num1 = 10; Num2 = 10;..
-SOMA = 20;..
+SOMA = 20;...
