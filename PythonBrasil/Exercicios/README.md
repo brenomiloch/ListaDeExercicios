@@ -85,7 +85,7 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 ### EXMPLOS: ###
 
-#### SEM int(): #### 
+![Forma ERRADA](https://cdn1.vectorstock.com/i/1000x1000/13/80/x-cross-icon-vector-26201380.jpg) #### SEM int(): #### 
 ~~~PYTHON
 Num1 = ("Digite o primeiro numero: ")
 Num2 = ("Digite o secundo numero: ")
