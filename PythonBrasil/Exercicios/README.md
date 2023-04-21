@@ -93,15 +93,13 @@ Resultado = Num1 + Num2
 print("Sua soma deu: " + Resultado)
 ~~~
 
-***Entrada de dados***
-
 ~~~PYTHON
 #Entrada de dados
  Num1 = 10
  Num2 = 10
- ~~~
 
- ***SOMA = 1010***
+ Resultado = 1010
+ ~~~
 
 #### COM int(): #### 
 ~~~PYTHON
@@ -112,9 +110,10 @@ print("Sua soma deu: " + Resultado)
 ~~~
 ***Entrada de dados***
 
- ~~~PYTHON
+~~~PYTHON
+#Entrada de dados
  Num1 = 10
  Num2 = 10
-~~~
 
- ***SOMA = 20***
+ Resultado = 20
+ ~~~
