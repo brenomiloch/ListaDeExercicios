@@ -86,13 +86,13 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 
 ### EXEMPLOS: ###
-
+A área de anotações das questões serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados a questão da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação. 
 #### ❌ SEM int() ❌ #### 
 ~~~PYTHON
-Num1 = ("Digite o primeiro numero: ")
-Num2 = ("Digite o secundo numero: ")
+Num1 = ("Digite o primeiro número: ")
+Num2 = ("Digite o secundo número ")
 Resultado = Num1 + Num2
-print("Sua soma deu: " + Resultado)
+print("Sua soma foi de: " + Resultado)
 ~~~
 
 ~~~PYTHON
@@ -104,10 +104,10 @@ Resultado = 1010
 
 #### ✅ COM int() ✅ #### 
 ~~~PYTHON
-Num1 = int(("Digite o primeiro numero: "))
-Num2 = int(("Digite o secundo numero: "))
+Num1 = int(("Digite o primeiro número: "))
+Num2 = int(("Digite o secundo número: "))
 Resultado = Num1 + Num2
-print("Sua soma deu: " + Resultado)
+print("Sua soma foi de: " + Resultado)
 ~~~
 
 ~~~PYTHON
