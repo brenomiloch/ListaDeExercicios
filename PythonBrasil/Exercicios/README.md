@@ -85,7 +85,7 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 ### EXMPLOS: ###
 
-![Forma ERRADA](https://www.flaticon.com/free-icon/check-mark_5290119?term=ok&page=1&position=33&origin=search&related_id=5290119){ width=50%; height:10px }
+![Forma ERRADA](https://cdn.icon-icons.com/icons2/624/PNG/512/Checkmark-80_icon-icons.com_57356.png)
 
  #### SEM int(): #### 
 ~~~PYTHON
