@@ -85,7 +85,8 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 ### EXMPLOS: ###
 
-![Forma ERRADA](https://cdn1.vectorstock.com/i/1000x1000/13/80/x-cross-icon-vector-26201380.jpg){ width=50%; height:10px }
+![Forma ERRADA](https://www.flaticon.com/free-icon/check-mark_5290119?term=ok&page=1&position=33&origin=search&related_id=5290119){ width=50%; height:10px }
+
  #### SEM int(): #### 
 ~~~PYTHON
 Num1 = ("Digite o primeiro numero: ")
