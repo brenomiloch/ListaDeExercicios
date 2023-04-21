@@ -77,6 +77,7 @@ total do seu salário no referido mês, sabendo-se que são descontados 11% para
  Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
 
 # ANOTAÇÕES
+A área de anotações das questões serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados a questão da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação. 
 
 ## QUESTÃO 03
 **PROBLEMA:** Quando somamos 10+10, o resultado esperado é 20. No entanto, no código apresentado, o resultado gerado é 1010. Isso ocorre porque as variáveis "Num1" e "Num2" são tratadas como strings em vez de números inteiros(int) ou de ponto flutuante (float). Em vez de realizar a operação esperada de soma ele está concatenando as strings.
@@ -86,7 +87,7 @@ Para resolver o problema, é necessário converter as strings em números usando
 
 
 ### EXEMPLOS: ###
-A área de anotações das questões serve como um espaço de registro para anotar ideias, soluções de problemas e exemplos de códigos relacionados a questão da Python Brasil. É um local para registrar aprendizados e truques úteis, que podem ser referenciados futuramente para ajudar a resolver problemas similares ou para aumentar a eficiência na codificação. 
+
 #### ❌ SEM int() ❌ #### 
 ~~~PYTHON
 Num1 = ("Digite o primeiro número: ")
