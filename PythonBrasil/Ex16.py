@@ -2,13 +2,10 @@
 # é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas
 # de tinta a serem compradas e o preço total.
 
-MetroQuadrados = float(input("Quantos metros quadrados da área a ser pintura: "))
+tamanho = float(input("Digite o tamanho em metros quadrados da área a ser pintada: "))
 
+litros = tamanho / 3
 
-LitrosUsar = MetroQuadrados / 3
-
-LatasUsar = LitrosUsar / 18
-
-ValorTotal = LatasUsar * 80
-
-print("Será necessario usar: ", LatasUsar, " Latas. Valor Total: ", ValorTotal)
+latas = int(litros / 18) + (1 if litros % 18 != 0 else 0)
+preco = latas * 80
+print("Você precisará de", latas, "latas de tinta, ao preço total de R$", preco)
