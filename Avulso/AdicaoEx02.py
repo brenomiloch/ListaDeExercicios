@@ -1,0 +1,2 @@
+# Escreva um programa em Python que calcule o valor total de uma compra em um supermercado. O programa deve receber como entrada o preço de três produtos diferentes e imprimir na tela 
+# o valor total da compra.

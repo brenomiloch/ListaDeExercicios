@@ -1,0 +1,1 @@
+# Crie um programa em Python que receba o salário atual de um funcionário e o percentual de aumento que ele receberá. O programa deve calcular o novo salário do funcionário e imprimir na tela.
