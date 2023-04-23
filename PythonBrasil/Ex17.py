@@ -8,3 +8,5 @@
 # B. Comprar apenas galões de 3,6 litros;
 # C. Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre
 # E. arredonde os valores para cima, isto é, considere latas cheias.
+
+
