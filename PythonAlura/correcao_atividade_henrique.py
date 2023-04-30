@@ -1,5 +1,4 @@
 usuario = input("Informe o usuário do sistema!")
-
 if(usuario == "Flávio"):
     print("Seja bem-vindo Flávio!")
 elif usuario == "Douglas":
