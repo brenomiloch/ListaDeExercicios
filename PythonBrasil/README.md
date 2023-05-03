@@ -216,3 +216,11 @@ Num1 = 10
 Num2 = 10
 Resultado = 20
  ~~~
+
+ 
+
+A expressão in é um operador em Python que verifica se um determinado elemento está presente em uma sequência de valores, como uma string, uma lista ou uma tupla.
+
+No exemplo que eu mostrei, a expressão letra in 'aeiouAEIOU' é utilizada para verificar se a letra digitada pelo usuário está presente na string 'aeiouAEIOU'. Se a letra estiver presente na string, a expressão retorna True. Caso contrário, retorna False.
+
+Note que a sequência de valores a ser verificada pela expressão in é escrita entre colchetes ou entre aspas simples (no caso de uma string), separados por vírgulas. No exemplo em questão, a sequência de valores é uma string contendo as vogais em letras minúsculas e maiúsculas.
