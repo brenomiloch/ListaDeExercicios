@@ -4,3 +4,12 @@
 # B. A mensagem "Reprovado", se a média for menor do que sete;
 # C. A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
+nota_1 = float(input("Digite a nota 1: "))
+nota_2 = float(input("Digite a nota 2: "))
+media = (nota_1 + nota_2)/2
+if media >= 7:
+    print("Aprovado")
+elif media < 7:
+    print("Reporvado")
+elif meida == 10:
+    print("Aporvado")
